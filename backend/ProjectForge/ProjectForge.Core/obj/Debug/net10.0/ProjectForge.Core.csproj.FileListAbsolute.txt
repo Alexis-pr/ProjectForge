@@ -1,0 +1,12 @@
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\bin\Debug\net10.0\ProjectForge.Core.deps.json
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\bin\Debug\net10.0\ProjectForge.Core.dll
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\bin\Debug\net10.0\ProjectForge.Core.pdb
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\obj\Debug\net10.0\ProjectForge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\obj\Debug\net10.0\ProjectForge.Core.AssemblyInfoInputs.cache
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\obj\Debug\net10.0\ProjectForge.Core.AssemblyInfo.cs
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\obj\Debug\net10.0\ProjectForge.Core.csproj.CoreCompileInputs.cache
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\obj\Debug\net10.0\ProjectForge.Core.sourcelink.json
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\obj\Debug\net10.0\ProjectForge.Core.dll
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\obj\Debug\net10.0\refint\ProjectForge.Core.dll
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\obj\Debug\net10.0\ProjectForge.Core.pdb
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Core\obj\Debug\net10.0\ref\ProjectForge.Core.dll

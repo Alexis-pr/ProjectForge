@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectForge.Api", "ProjectForge.Api\ProjectForge.Api.csproj", "{5B0DFC13-B66E-4E13-B8A5-14BEEB93E00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectForge.Core", "ProjectForge.Core\ProjectForge.Core.csproj", "{1341DF7E-2AB9-4726-84E2-E8237857D03E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectForge.Infrastructure", "ProjectForge.Infrastructure\ProjectForge.Infrastructure.csproj", "{5D4D1E2D-291E-4C50-9592-43FC10C62ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0DFC13-B66E-4E13-B8A5-14BEEB93E00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0DFC13-B66E-4E13-B8A5-14BEEB93E00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0DFC13-B66E-4E13-B8A5-14BEEB93E00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0DFC13-B66E-4E13-B8A5-14BEEB93E00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1341DF7E-2AB9-4726-84E2-E8237857D03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1341DF7E-2AB9-4726-84E2-E8237857D03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1341DF7E-2AB9-4726-84E2-E8237857D03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1341DF7E-2AB9-4726-84E2-E8237857D03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4D1E2D-291E-4C50-9592-43FC10C62ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4D1E2D-291E-4C50-9592-43FC10C62ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4D1E2D-291E-4C50-9592-43FC10C62ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4D1E2D-291E-4C50-9592-43FC10C62ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

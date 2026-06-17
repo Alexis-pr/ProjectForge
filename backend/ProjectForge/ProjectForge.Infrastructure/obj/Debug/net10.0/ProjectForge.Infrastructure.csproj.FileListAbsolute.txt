@@ -1,0 +1,16 @@
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\bin\Debug\net10.0\ProjectForge.Infrastructure.deps.json
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\bin\Debug\net10.0\ProjectForge.Infrastructure.dll
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\bin\Debug\net10.0\ProjectForge.Infrastructure.pdb
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\bin\Debug\net10.0\ProjectForge.Core.dll
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\bin\Debug\net10.0\ProjectForge.Core.pdb
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\ProjectForge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\ProjectForge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\ProjectForge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\ProjectForge.Infrastructure.AssemblyInfo.cs
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\ProjectForge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\ProjectForge.Infrastructure.sourcelink.json
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\ProjectF.348B1937.Up2Date
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\ProjectForge.Infrastructure.dll
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\refint\ProjectForge.Infrastructure.dll
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\ProjectForge.Infrastructure.pdb
+C:\Users\Negro\Desktop\ProjectForge\backend\ProjectForge\ProjectForge.Infrastructure\obj\Debug\net10.0\ref\ProjectForge.Infrastructure.dll
